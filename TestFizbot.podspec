@@ -16,7 +16,7 @@ Pod::Spec.new do |s|
   s.homepage         = 'https://google.com'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'Alkın Çakıralar' => 'a.cakiralar@gmail.com' }
-  s.source           = { :git => 'https://github.com/alkincakiralar1996/TestFizbot.git', :tag => s.version.to_s }
+  s.source           = { :git => 'https://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@github.com/alkincakiralar1996/TestFizbot.git', :tag => s.version.to_s }
 
   s.ios.deployment_target = '9.0'
 
