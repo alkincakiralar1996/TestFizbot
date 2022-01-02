@@ -1,6 +1,0 @@
-framework module Pods_TestFizbot_Tests {
-  umbrella header "Pods-TestFizbot_Tests-umbrella.h"
-
-  export *
-  module * { export * }
-}
