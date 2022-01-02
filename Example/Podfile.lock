@@ -1,0 +1,16 @@
+PODS:
+  - TestFizbot (0.1.0)
+
+DEPENDENCIES:
+  - TestFizbot (from `../`)
+
+EXTERNAL SOURCES:
+  TestFizbot:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  TestFizbot: e38a7a28e963643324bbd9b9f085e91af897b50b
+
+PODFILE CHECKSUM: 3b01badeafa8229cf11acbbfbe3836b6d4044408
+
+COCOAPODS: 1.10.2
